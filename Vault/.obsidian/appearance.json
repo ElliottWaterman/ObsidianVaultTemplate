@@ -1,9 +1,9 @@
 {
   "accentColor": "#43cfea",
   "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JetBrains Mono,IBM Plex Mono",
+  "textFontFamily": "JetBrains Mono,IBM Plex Mono",
+  "monospaceFontFamily": "IBM Plex Mono,JetBrains Mono",
   "enabledCssSnippets": [
     "retro-notebook-bg",
     "Daily Note",

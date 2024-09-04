@@ -1,6 +1,4 @@
 [
-  "obsidian-spaced-repetition",
-  "obsidian-smart-typography",
   "obsidian-importer",
   "settings-search",
   "obsidian-completr",
@@ -13,5 +11,7 @@
   "templater-obsidian",
   "calendar",
   "homepage",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-smart-typography",
+  "fit"
 ]
